@@ -1,0 +1,7 @@
+Math,98
+Science,93
+Social,90
+English,94
+Hindi,96
+Sanskrit,99
+IT,100
